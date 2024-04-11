@@ -2,3 +2,4 @@ streamlit-pydantic
 pydantic
 psycopg2-binary
 python-dotenv
+datetime
