@@ -32,11 +32,11 @@ Open the terminal and run the following commands:
 
 
 ## What's included
-**app.py**: The main Python script with Streamlit code.
-**requirements.txt**: A file listing the project's dependencies.
-**.env**: A file for environment variables (not tracked in version control for security reasons).
+- **app.py**: The main Python script with Streamlit code.
+- **requirements.txt**: A file listing the project's dependencies.
+- **.env**: A file for environment variables (not tracked in version control for security reasons).
 
 ## What I Learned
-**Streamlit Framework**: Gained hands-on experience in building and deploying web applications with Streamlit.
-**Database Management**: Learned how to integrate a PostgreSQL database with a Python application using psycopg2.
-**Frontend Customization**: Explored how to customize the frontend using Streamlit widgets and CSS for better user interaction.
+- **Streamlit Framework**: Gained hands-on experience in building and deploying web applications with Streamlit.
+- **Database Management**: Learned how to integrate a PostgreSQL database with a Python application using psycopg2.
+- **Frontend Customization**: Explored how to customize the frontend using Streamlit widgets and CSS for better user interaction.
